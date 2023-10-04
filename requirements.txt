@@ -2,6 +2,6 @@ numpy
 scipy
 graphtools
 phate
-scikit-learn
+#scikit-learn
 tasklogger
 joblib
